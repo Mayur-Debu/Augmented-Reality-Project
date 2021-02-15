@@ -1,0 +1,1 @@
+Add both mail.jar and activation.jar to project library.
